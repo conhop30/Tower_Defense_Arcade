@@ -2,7 +2,7 @@
 
 # Overview
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+This is an _in-progress_ 2D Tower Defense game.
 
 I wrote this program to learn how to manipulate images, sounds, and mouse inputs.
 I also wanted to learn how to really use classes and objects in a way that had
@@ -11,19 +11,17 @@ class entirely.
 
 Link to my demonstration video:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]((https://youtu.be/v7i_ATL_aB8))
 
 # Development Environment
-
 Visual Studio 2022
 
 Language: Python
 Libraries: Arcade
 
 # Useful Websites
-
-* [Chat GPT]([http://url.link.goes.here](https://openai.com/blog/chatgpt))
-* [Web Site Name](http://url.link.goes.here)
+* [Chat GPT]((https://openai.com/blog/chatgpt))
+* [Arcade Documentation]((https://api.arcade.academy/en/latest/examples/follow_path.html#follow-path))
 
 # Future Work
 
